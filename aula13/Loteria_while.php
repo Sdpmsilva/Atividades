@@ -10,6 +10,7 @@ if ($method == "POST"){
 } for ($i = 0; $i < $Qdezenas; $i++ ) {
 	$adicionado = false; {
 	while($adicionado == false);
+	$dezena = rand($minimo, $maximo);
 	
 }?>
 
